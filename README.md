@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 LIVE SITE: https://jakeschatapp.netlify.app/
 
+login with username: Recruiter  password: hireme
+
 ## Available Scripts
 
 In the project directory, you can run:
